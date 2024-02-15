@@ -11,7 +11,7 @@ const SortSelector = ({ onSelectSortOrder, sortOrder }: Props) => {
 		{ value: '', label: 'Relevance' },
 		{ value: '-added', label: 'Date added' },
 		{ value: 'name', label: 'Name' },
-		{ value: '-release', label: 'Release data' },
+		{ value: '-released', label: 'Release data' },
 		{ value: '-metacritic', label: 'Popularity' },
 		{ value: '-rating', label: 'Avarage rating' },
 	];
