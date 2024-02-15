@@ -1,5 +1,5 @@
 import { GameQuery } from '../App';
-import useData from './useDate';
+import useData from './useData';
 
 export interface Platform {
 	id: number;
