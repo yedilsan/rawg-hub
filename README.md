@@ -11,3 +11,7 @@ To get started:
 3. Get a RAWG API key at https://rawg.io/apidocs.
 4. Add the API key to **src/services/api-client.ts**
 5. Run `npm run dev`.
+
+## Demo
+
+![demo](https://github.com/yedilsan/rawg-hub/assets/80204971/58cb8173-e5cc-40d8-96df-cc5f327258e0)
